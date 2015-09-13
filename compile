@@ -1,0 +1,2 @@
+gcc -o SortTime xsort_64.o SortTime.c -lm
+
